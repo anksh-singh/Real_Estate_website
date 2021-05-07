@@ -1,5 +1,5 @@
 # Real_Estate_website
-Real estate website which is based on django, specially helpful for those who are curious about buying/selling properties.
+Real estate website which is mainly design and developed by using framework django, specially helpful for those who are curious about buying/selling properties.
 ![Screenshot (78)](https://user-images.githubusercontent.com/57299163/117441568-31f1ab00-af53-11eb-881a-184fca22f400.png)
 
 Descriptions...
