@@ -1,7 +1,7 @@
 from django.db import models
 from datetime import datetime
 from django.conf import settings
-from django import forms
+# from django import forms
 
 class Realtor(models.Model):
   name = models.CharField(max_length=200)
