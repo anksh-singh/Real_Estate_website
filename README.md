@@ -20,8 +20,9 @@ Login Credentials...
 pip install virtualenv 
 
 2) That will create a new folder env in your project directory. Next activate it with this command on Window:
+ Navigate through that particular project in which you donwloaded that virtual environment and then run the following command.
 
-env\scripts\activate
+source env\scripts\activate
 
 3) Install the project dependencies with:-
 
