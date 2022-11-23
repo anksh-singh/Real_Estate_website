@@ -15,7 +15,7 @@ Login Credentials...
 ![Screenshot (82)](https://user-images.githubusercontent.com/57299163/117441927-b3493d80-af53-11eb-826c-41c2efddc89b.png)
 
 # Installation Guide
-1) To get this project up and running make sure that Python installed on your computer. Now you have to create a VirtualEnvironment by using this command:
+1) To get this project up and running make sure that Python installed on your computer. Now you have to create a Virtual Environment by using this command:
 
 pip install virtualenv 
 
@@ -31,3 +31,6 @@ pip install -r requirements.txt
 4) Now run the project with this command:-
 
 python manage.py runserver
+
+5) go to the site
+https://localhost:8000
